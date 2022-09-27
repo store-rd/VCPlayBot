@@ -93,3 +93,4 @@ If you donlt like to play in linked channel:
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
 - [Awesome Bot](http://t.me/LaylaBots) Channel bot list
 - [Dev](http://t.me/Dead0XD) Hero owner of this bot
+by ano 
